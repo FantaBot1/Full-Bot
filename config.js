@@ -112,7 +112,7 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["51926933818", '𝗦𝘂𝗽𝗲𝗿𝗶𝗼𝗿𝗶𝘁𝘆', 1], 
-["573112811966", '𝗦𝘂𝗽𝗲𝗿𝗶𝗼𝗿𝗶𝘁𝘆 𝗕𝗼𝘁', 1]
+["573112811966", '𝗦𝘂𝗽𝗲𝗿𝗶𝗼𝗿𝗶𝘁𝘆 𝗕𝗼𝘁', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
